@@ -1,0 +1,2 @@
+﻿"customername" : "Aparna",    "customeraddress" : "banglore",    "mobile" : "54657657"}
+@Overridepublic String toString() {    return "Customer{" +            "customerid=" + customerid +            ", customername='" + customername + '\'' +            ", customeraddress='" + customeraddress + '\'' +            ", mobile=" + mobile +            '}';

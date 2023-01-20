@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Exercise</title>
+
+</head>
+
+<body bgcolor="pink">
+
+<h3 style = "text-align:center"> My favorite Links</h3>
+
+<ol type="A">
+
+<li>Great car sites</li>
+
+</ol>
+
+<dl>
+  
+<dt>audi</dt>
+  
+<dd>Audi vehicles are renowned for a design as beautiful and unique car</dd>
+
+  <dt>Benz</dt>
+
+  <dd>Benz vehicles are German luxury car</dd>
+ 
+ <dt>Bmw</dt>
+
+  <dd>Bmw vehicles are so unique </dd>
+
+</dl>
+
+<ol type="B">
+
+<h3 style = "text-align:center"> Usefull websites</h3>
+
+<ol>
+<li>Websites</li>
+
+</ol>
+ 
+ <li>Sololearn</li>
+  
+<dd>Sololearn is good site to learn programing languages</dd>
+    
+<ol>
+    
+  <li>Flipkart</li>
+	
+  <dd>Flipkart is shopping website</dd>
+    
+  <li>Myntra</li>
+	
+  <dd>Myntra is used for shopping</dd>
+  
+  </ol>
+ 
+ </li>
+  
+<li>Swiggy</li>
+
+  <dd>swiggy is used food delivery system</dd>
+
+</ol>
+
+</body>
+
+</html>

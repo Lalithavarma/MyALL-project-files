@@ -1,0 +1,12 @@
+<html>
+<body>
+The video
+<center>
+<embed src="E:\EduBridge Learning Pvt Ltd\ppts\10 FRONT END DEVELOPMENT\1 HTML\samsheera\resource\mymusic.mp3"></embed>
+<audio src="E:\EduBridge Learning Pvt Ltd\ppts\10 FRONT END DEVELOPMENT\1 HTML\samsheera\resource\mymusic.mp3" controls></audio>
+<video controls="controls" width="640" height="420" src="E:\EduBridge Learning Pvt Ltd\ppts\10 FRONT END DEVELOPMENT\1 HTML\samsheera\resource\myvideo.mp4">
+</center></video>
+<object data="E:\EduBridge Learning Pvt Ltd\ppts\10 FRONT END DEVELOPMENT\1 HTML\samsheera\resource\mymusic.mp3"></object>
+<object width="640" height="420" data="E:\EduBridge Learning Pvt Ltd\ppts\10 FRONT END DEVELOPMENT\1 HTML\samsheera\resource\myvideo.mp4"></object>
+</body>
+</html>
